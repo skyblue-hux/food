@@ -1,0 +1,17 @@
+#navbar {text-align: center;}
+a {text-decoration: none; color: black;}
+
+.nav {
+  background-color: lightgrey;
+  padding: 10px;
+  display: inline;
+  padding: 10px;
+}
+
+.nav:hover {text-decoration: underline; background-color: dodgerblue;}
+h1 {text-align: center;}
+#whole_thing {text-align: center;}
+#instruct {text-align: center; float: left; max-width: 425px; margin-left: 50px;}
+li {text-align: left;}
+#recipe {text-align: center; float: right; margin-right: 50px;}
+#cover {text-align: center;}
